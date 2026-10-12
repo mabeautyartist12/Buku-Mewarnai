@@ -1,0 +1,7 @@
+{
+  "name": "buku-mewarnai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Generator prompt halaman aktivitas mewarnai edukatif by Evegrow.Digital",
+  "scripts": { "start": "npx serve ." }
+}
